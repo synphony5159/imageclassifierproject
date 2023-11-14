@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
-            String[] classes = {"Table", "Seed"};
+            String[] classes = {"Corn", "Acorn", "Apple", "Wheat", "Sunflower", "Pumpkin"};
 
             result.setText(classes[maxPos]);
 
